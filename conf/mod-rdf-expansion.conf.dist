@@ -6,10 +6,10 @@
 
 #
 #     RDF.Expansion
-#        Description: Allow setting which expansion can be used in LFG
+#        Description: 允许设置可以在 LFG 中使用的扩展
 #           2 - WOTLK (Default behaviour)
-#           1 - TBC (if the player queues WOTLK RDF, join as TBC RDF)
-#           0 - Classic  (if the player queues Wotlk or TBC RDF, join as Classic RDF)
+#           1 - TBC (如果玩家排队 WOTLK RDF，则加入为 TBC RDF)
+#           0 - Classic  (如果玩家排队 Wotlk 或 TBC RDF，则加入经典 RDF)
 #        Default:     2
 
 RDF.Expansion = 2
